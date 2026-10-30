@@ -1,0 +1,13 @@
+{
+  "augment": true,
+  "cosine_lr": true,
+  "data_seed": 0,
+  "dropout": 0.2,
+  "epochs": 40,
+  "layernorm": true,
+  "lr": 0.003,
+  "n_train": 400,
+  "name": "full",
+  "seed": 4,
+  "weight_decay": 0.001
+}

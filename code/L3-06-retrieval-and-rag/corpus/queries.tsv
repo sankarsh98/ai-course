@@ -1,0 +1,57 @@
+id	type	doc	answer	question
+q01	lexical	travel-policy-2025	$210 per night	What is the nightly hotel cap in most cities?
+q02	paraphrase	travel-policy-2025	$260 per night	How much can I spend on a room when visiting Zurich for work?
+q03	lexical	travel-policy-2025	daily meal allowance of $65	What is the daily meal allowance when travelling?
+q04	paraphrase	travel-policy-2025	45 days after the trip ends	How long after a business trip do I have to ask for my money back?
+q05	lexical	travel-policy-2025	expense above $25	Above what amount is a receipt required for an expense?
+q06	paraphrase	travel-policy-2025	0.45 dollars per kilometre	How much do I get paid per km for driving my own car?
+q07	lexical	travel-policy-2025	budget holder	Who approves expense claims above $2,000?
+q08	paraphrase	travel-policy-2025	written approval from your director	Can I fly in a better seat on a long-haul flight?
+q09	lexical	leave-policy	25 days of paid annual leave	How many days of paid annual leave do full-time employees receive?
+q10	paraphrase	leave-policy	Up to 5 unused days may be carried over	Can I keep unused holiday for next year?
+q11	paraphrase	leave-policy	used by 31 March	By when must I take the holiday I brought forward?
+q12	lexical	leave-policy	14 calendar days	How much notice is needed for leave longer than three working days?
+q13	paraphrase	leave-policy	up to 3 consecutive working days	How many days off ill can I take before I need a note from a doctor?
+q14	paraphrase	leave-policy	20 weeks of parental leave at full pay	How much paid time off does a new mother get after having a baby?
+q15	lexical	leave-policy	5 paid days	How long is bereavement leave?
+q16	lexical	it-security	at least 14 characters	What is the minimum password length?
+q17	paraphrase	it-security	only if you think it has been exposed	How often am I forced to update my login secret?
+q18	paraphrase	it-security	Report Phish button	I got a suspicious email asking for my bank details, what should I do?
+q19	paraphrase	it-security	within 1 hour of noticing	My work computer was stolen at the station; how quickly must I tell someone?
+q20	lexical	it-security	USB storage devices are blocked by default	Are USB storage devices allowed?
+q21	identifier	vpn-troubleshooting	more than 5 minutes	What does TG-204 mean?
+q22	identifier	vpn-troubleshooting	Renew device certificate	How do I fix TG-101?
+q23	identifier	vpn-troubleshooting	open a browser to accept the terms	Tunnelgate shows TG-309 at the airport
+q24	paraphrase	vpn-troubleshooting	split tunnelling is not permitted	Can I send some of my internet traffic outside the company tunnel?
+q25	paraphrase	bw40-user-guide	lasts about 18 months	How long do the batteries last in the soil sensor?
+q26	paraphrase	bw40-user-guide	temporary immersion in water up to 1 metre	Can the soil logger survive being dropped in a pond?
+q27	lexical	bw40-user-guide	-30 to 60 degrees Celsius	What is the operating temperature range of the BW-40?
+q28	paraphrase	bw40-user-guide	stops recording unless overwrite mode	What happens when the device has no space left?
+q29	paraphrase	bw40-user-guide	Two red blinks mean the battery is low	What do two red flashes on the device mean?
+q30	lexical	bw40-user-guide	recalibrated every 12 months	How often should BW-40 sensors be recalibrated?
+q31	identifier	bw40-firmware-notes	E-47: memory full	What is E-47?
+q32	identifier	bw40-firmware-notes	E-12: sensor disconnected	The app shows E-12 next to my logger
+q33	identifier	bw40-firmware-notes	run the update again	What should I do after E-58?
+q34	paraphrase	bw40-firmware-notes	lose up to two minutes per month	How much time could the logger clock fall behind in the cold?
+q35	paraphrase	bw40-firmware-notes	up to 5 kilometres away	How far can the long-range radio send data?
+q36	lexical	returns-and-warranty	3-year warranty	How long is the warranty on Brindlewood loggers?
+q37	paraphrase	returns-and-warranty	return authorisation number	What do I need before shipping a broken unit back to be fixed?
+q38	paraphrase	returns-and-warranty	15 percent restocking fee	If I open the box and then send it back, do I get all my money back?
+q39	lexical	support-slas	First response within 1 hour	What is the first response time for a P1 ticket?
+q40	paraphrase	support-slas	First response within 2 business days	How quickly will someone reply to an ordinary customer question?
+q41	paraphrase	support-slas	not resolved within 8 hours	When does a critical case get passed to a manager automatically?
+q42	lexical	onboarding	within 10 working days of starting	When must the Safe Lab Practice course be completed?
+q43	lexical	onboarding	probation period is 6 months	How long is the probation period?
+q44	paraphrase	facilities	replacement badge costs $20	How much does it cost to replace a lost building pass?
+q45	paraphrase	facilities	limited to 4 hours	How long can I charge my electric car at work?
+q46	paraphrase	data-retention	kept for 7 years after upload	How long do we keep customer measurements stored online?
+q47	lexical	data-retention	Backups of production systems are kept for 35 days	How long are backups of production systems kept?
+q48	paraphrase	data-retention	within 30 days of receipt	How fast must we act when someone asks us to erase their personal information?
+q49	unanswerable			Can I bring my dog to the office?
+q50	unanswerable			What is the retail price of the BW-40?
+q51	unanswerable			How many vacation days do contractors get?
+q52	unanswerable			What is the guest Wi-Fi password?
+q53	unanswerable			Who is the chief executive of Brindlewood?
+q54	unanswerable			How do I reset the BW-40 to factory settings?
+q55	unanswerable			What is the overtime pay rate?
+q56	unanswerable			Can I expense a gym membership?

@@ -1,0 +1,13 @@
+{
+  "augment": false,
+  "cosine_lr": false,
+  "data_seed": 0,
+  "dropout": 0.0,
+  "epochs": 40,
+  "layernorm": false,
+  "lr": 0.003,
+  "n_train": 400,
+  "name": "none (plain MLP)",
+  "seed": 1,
+  "weight_decay": 0.0
+}
