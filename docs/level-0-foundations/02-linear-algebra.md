@@ -1,4 +1,6 @@
-# Linear Algebra for ML
+---
+title: "Linear Algebra for ML"
+---
 
 > **Level 0 · Module 2** · Prerequisites: L0-01 · Time: 6 to 8 hours · Code: `code/L0-02-linear-algebra/`
 

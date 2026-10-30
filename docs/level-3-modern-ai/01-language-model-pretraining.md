@@ -1,4 +1,6 @@
-# Language Model Pretraining
+---
+title: "Language Model Pretraining"
+---
 
 > **Level 3 · Module 1** · Prerequisites: L0-04, L0-05, L2-02, L2-04, L2-05 · Time: 10 to 12 hours · Code: `code/L3-01-language-model-pretraining/`
 

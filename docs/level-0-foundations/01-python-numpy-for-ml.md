@@ -1,4 +1,6 @@
-# Python and NumPy for ML
+---
+title: "Python and NumPy for ML"
+---
 
 > **Level 0 · Module 1** · Prerequisites: none · Time: 5 to 6 hours · Code: `code/L0-01-python-numpy-for-ml/`
 

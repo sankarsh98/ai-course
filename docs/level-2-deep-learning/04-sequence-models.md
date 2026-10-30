@@ -1,4 +1,6 @@
-# Sequence Models
+---
+title: "Sequence Models"
+---
 
 > **Level 2 · Module 4** · Prerequisites: L0-03, L0-04, L2-01, L2-02, L2-03 · Time: 6 to 8 hours · Code: `code/L2-04-sequence-models/`
 

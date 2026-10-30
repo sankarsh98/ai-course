@@ -1,4 +1,6 @@
-# Data and Features
+---
+title: "Data and Features"
+---
 
 > **Level 1 · Module 5** · Prerequisites: L1-01, L1-02, L1-03 · Time: 5 to 6 hours · Code: `code/L1-05-data-and-features/`
 

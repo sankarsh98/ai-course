@@ -1,4 +1,6 @@
-# Trees and Ensembles
+---
+title: "Trees and Ensembles"
+---
 
 > **Level 1 · Module 3** · Prerequisites: L1-01, L1-02 · Time: 6 to 8 hours · Code: `code/L1-03-trees-and-ensembles/`
 

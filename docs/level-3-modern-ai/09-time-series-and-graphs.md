@@ -1,4 +1,6 @@
-# Time Series and Graphs
+---
+title: "Time Series and Graphs"
+---
 
 > **Level 3 · Module 9** · Prerequisites: L1-01, L1-03, L1-04, L2-04, L2-05 · Time: 8 to 10 hours · Code: `code/L3-09-time-series-and-graphs/`
 

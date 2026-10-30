@@ -1,4 +1,6 @@
-# Learning paths
+---
+title: "Learning paths"
+---
 
 You don't need to read the course in order. These routes cover the common goals. A module ID like L2-05 means Level 2, module 5. Prerequisites are listed in each module header.
 

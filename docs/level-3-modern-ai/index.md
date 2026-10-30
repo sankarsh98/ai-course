@@ -1,4 +1,6 @@
-# Level 3: Modern AI across domains
+---
+title: "Level 3: Modern AI across domains"
+---
 
 Language-model pretraining and post-training, generative models and diffusion, vision and multimodal models, reinforcement learning, retrieval, agents, recommenders, time series and graphs, and AI in science and healthcare. Time-sensitive claims are dated and verified as of October 2026.
 

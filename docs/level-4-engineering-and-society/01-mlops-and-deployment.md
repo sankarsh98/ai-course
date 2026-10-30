@@ -1,4 +1,6 @@
-# MLOps and Deployment
+---
+title: "MLOps and Deployment"
+---
 
 > **Level 4 · Module 1** · Prerequisites: L1-01, L1-05, L2-02 · Time: 6 to 8 hours · Code: `code/L4-01-mlops-and-deployment/`
 

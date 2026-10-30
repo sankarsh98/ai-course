@@ -1,4 +1,6 @@
-# Level 1: Classical machine learning
+---
+title: "Level 1: Classical machine learning"
+---
 
 Learning from data without deep networks: evaluation done honestly, linear and logistic models, trees and boosting, unsupervised learning, and the data and feature work that decides most real projects. These habits carry into every later level.
 

@@ -1,4 +1,6 @@
-# Bibliography
+---
+title: "Bibliography"
+---
 
 Every entry below is the "Further reading" list of one module, collected in one place. Each source was looked up and checked while the module was written; see the verification notes for how, and for what is weaker. Inline citations in the module text that are not in these lists are not repeated here.
 

@@ -1,4 +1,6 @@
-# Safety, Alignment and Governance
+---
+title: "Safety, Alignment and Governance"
+---
 
 > **Level 4 · Module 5** · Prerequisites: L0-04, L1-01, L1-05, L3-02, L3-07, L4-03 (L3-08 and L3-10 help for sections 7 and 10) · Time: 10 to 12 hours · Code: `code/L4-05-safety-alignment-and-governance/`
 

@@ -1,4 +1,6 @@
-# Calculus and Automatic Differentiation
+---
+title: "Calculus and Automatic Differentiation"
+---
 
 > **Level 0 · Module 3** · Prerequisites: L0-01, L0-02 · Time: 5 to 7 hours · Code: `code/L0-03-calculus-and-autodiff/`
 

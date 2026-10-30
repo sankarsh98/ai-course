@@ -1,4 +1,6 @@
-# Retrieval and RAG
+---
+title: "Retrieval and RAG"
+---
 
 > **Level 3 · Module 6** · Prerequisites: L0-02, L0-04, L1-01, L2-06 · Time: 7 to 9 hours · Code: `code/L3-06-retrieval-and-rag/`
 

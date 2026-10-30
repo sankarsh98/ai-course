@@ -1,4 +1,6 @@
-# Evaluation and Benchmarks
+---
+title: "Evaluation and Benchmarks"
+---
 
 > **Level 4 · Module 3** · Prerequisites: L0-04, L1-01, L3-02, L3-06, L3-07 · Time: 7 to 9 hours · Code: `code/L4-03-evaluation-and-benchmarks/`
 

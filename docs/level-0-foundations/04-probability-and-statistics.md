@@ -1,4 +1,6 @@
-# Probability and Statistics
+---
+title: "Probability and Statistics"
+---
 
 > **Level 0 · Module 4** · Prerequisites: L0-01 · Time: 6 to 8 hours · Code: `code/L0-04-probability-and-statistics/`
 

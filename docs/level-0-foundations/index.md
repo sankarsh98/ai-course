@@ -1,4 +1,6 @@
-# Level 0: Foundations
+---
+title: "Level 0: Foundations"
+---
 
 The math and tools that everything else uses: arrays and floating point, linear algebra, automatic differentiation, probability and statistics, and optimization. Each module is built around code you run, including a small autograd engine you write yourself.
 

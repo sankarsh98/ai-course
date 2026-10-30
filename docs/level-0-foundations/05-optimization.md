@@ -1,4 +1,6 @@
-# Optimization
+---
+title: "Optimization"
+---
 
 > **Level 0 · Module 5** · Prerequisites: L0-01, L0-02, L0-03 · Time: 5 to 7 hours · Code: `code/L0-05-optimization/`
 

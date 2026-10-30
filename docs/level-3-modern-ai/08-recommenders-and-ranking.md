@@ -1,4 +1,6 @@
-# Recommenders and Ranking
+---
+title: "Recommenders and Ranking"
+---
 
 > **Level 3 · Module 8** · Prerequisites: L0-02, L1-01, L1-02, L2-02, L2-06 · Time: 7 to 9 hours · Code: `code/L3-08-recommenders-and-ranking/`
 

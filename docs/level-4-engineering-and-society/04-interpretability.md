@@ -1,4 +1,6 @@
-# Interpretability
+---
+title: "Interpretability"
+---
 
 > **Level 4 · Module 4** · Prerequisites: L1-02, L2-01, L2-02, L2-05, L4-03 · Time: 7 to 9 hours · Code: `code/L4-04-interpretability/`
 

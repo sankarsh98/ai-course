@@ -1,4 +1,6 @@
-# Verification notes
+---
+title: "Verification notes"
+---
 
 This page says what was checked in this course, how, and what is weaker. Read it before relying on any specific fact, number or date.
 

@@ -1,4 +1,6 @@
-# Capstone projects
+---
+title: "Capstone projects"
+---
 
 Five projects that combine modules. Each one is open-ended on purpose: the module code gives you the building blocks, and the project is to put them together on data you care about and to **evaluate the result honestly**. Aim for a short written report with every project, covering what you built, how you measured it, and what failed.
 

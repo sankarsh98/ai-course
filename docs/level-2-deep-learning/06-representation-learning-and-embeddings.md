@@ -1,4 +1,6 @@
-# Representation Learning and Embeddings
+---
+title: "Representation Learning and Embeddings"
+---
 
 > **Level 2 · Module 6** · Prerequisites: L0-02, L1-04, L2-02, L2-05 · Time: 7 to 9 hours · Code: `code/L2-06-representation-learning-and-embeddings/`
 

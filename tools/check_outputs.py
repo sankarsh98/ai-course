@@ -8,7 +8,7 @@ for script in sorted(sample):
     mod = script.split("/")[1]                       # e.g. L2-05-transformers
     lvl = "level-" + mod[1] + "-*"
     page = next(p for p in glob.glob(f"docs/{lvl}/*.md")
-                if re.search(re.escape(mod), open(p, encoding="utf-8").read().split("\n", 3)[2]))
+                if re.search(re.escape(mod), next(l for l in open(p, encoding="utf-8").read().splitlines() if l.startswith("> **Level"))))
     text = open(page, encoding="utf-8").read()
     d, b = os.path.split(script)
     r = subprocess.run([sys.executable, "-I", b] if False else [".venv/bin/python".replace(".venv", os.path.abspath(".venv")), b],

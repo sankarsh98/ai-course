@@ -1,4 +1,6 @@
-# Generative Models and Diffusion
+---
+title: "Generative Models and Diffusion"
+---
 
 > **Level 3 · Module 3** · Prerequisites: L0-04, L0-05, L2-02, L2-05, L2-06 · Time: 8 to 10 hours · Code: `code/L3-03-generative-models-and-diffusion/`
 

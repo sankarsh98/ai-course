@@ -1,4 +1,6 @@
-# Convolutional Networks
+---
+title: "Convolutional Networks"
+---
 
 > **Level 2 · Module 3** · Prerequisites: L0-02, L1-01, L2-01, L2-02 · Time: 6 to 8 hours · Code: `code/L2-03-convolutional-networks/`
 

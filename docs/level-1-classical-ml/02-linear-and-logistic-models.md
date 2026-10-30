@@ -1,4 +1,6 @@
-# Linear and Logistic Models
+---
+title: "Linear and Logistic Models"
+---
 
 > **Level 1 · Module 2** · Prerequisites: L0-02, L0-03, L0-04, L0-05, L1-01 · Time: 6 to 8 hours · Code: `code/L1-02-linear-and-logistic-models/`
 

@@ -1,4 +1,6 @@
-# Efficient Training and Inference
+---
+title: "Efficient Training and Inference"
+---
 
 > **Level 4 · Module 2** · Prerequisites: L0-01, L0-05, L2-02, L2-05, L3-01 · Time: 7 to 9 hours · Code: `code/L4-02-efficient-training-and-inference/`
 

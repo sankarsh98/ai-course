@@ -1,4 +1,6 @@
-# The ML workflow and evaluation
+---
+title: "The ML workflow and evaluation"
+---
 
 > **Level 1 · Module 1** · Prerequisites: L0-01, L0-04 · Time: 5 to 7 hours · Code: `code/L1-01-ml-workflow-and-evaluation/`
 

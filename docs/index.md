@@ -1,4 +1,6 @@
-# The AI Course
+---
+title: "The AI Course"
+---
 
 A multi-level, hands-on course in AI, from the math you need to the questions the field is still arguing about. It has **32 modules in five levels**, each with runnable code, exercises with worked answers, and annotated sources that were looked up and checked as the modules were written.
 

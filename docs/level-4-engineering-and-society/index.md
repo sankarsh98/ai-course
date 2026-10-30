@@ -1,4 +1,6 @@
-# Level 4: Engineering and society
+---
+title: "Level 4: Engineering and society"
+---
 
 Running, measuring, understanding and governing AI systems: MLOps, efficient training and inference, evaluation and benchmarks, interpretability, safety and governance, and research skills and careers.
 

@@ -16,7 +16,8 @@ LEVELS = {
 
 def parse(path):
     text = open(path, encoding="utf-8").read()
-    title = text.splitlines()[0].lstrip("# ").strip()
+    fm = re.match(r"^---\ntitle: \"(.*?)\"\n---", text, re.S)
+    title = fm.group(1) if fm else text.splitlines()[0].lstrip("# ").strip()
     meta = next((l for l in text.splitlines() if l.startswith("> **Level")), "")
     prereq = re.search(r"Prerequisites: (.*?) ·", meta)
     time_ = re.search(r"Time: (.*?) ·", meta)
@@ -57,14 +58,14 @@ for d, (name, blurb) in LEVELS.items():
         m.update(short=short, mid=mid, scripts=n_scripts)
         rows.append(f"| {short} | {m['title']} | {m['prereq']} | {m['time']} | {n_scripts} |")
     mods.append((d, name, blurb, ms))
-    out = [f"# {name}", "", blurb, "", "| ID | Module | Prerequisites | Time | Scripts |", "|---|---|---|---|---|", *rows, ""]
+    out = ["---", f'title: "{name}"', "---", "", blurb, "", "| ID | Module | Prerequisites | Time | Scripts |", "|---|---|---|---|---|", *rows, ""]
     out += ["## What each module teaches", ""]
     for m in ms:
         out += [f"### {m['short']}: {m['title']}", ""] + [f"- {o}" for o in m["outcomes"][:4]] + [""]
     open(f"docs/{d}/index.md", "w", encoding="utf-8").write("\n".join(out))
 
 # combined bibliography
-bib = ["# Bibliography", "",
+bib = ["---", 'title: "Bibliography"', "---", "",
        "Every entry below is the \"Further reading\" list of one module, collected in one place. Each source was looked up and checked while the module was written; see the verification notes for how, and for what is weaker. Inline citations in the module text that are not in these lists are not repeated here.", ""]
 seen = {}
 for d, name, blurb, ms in mods:

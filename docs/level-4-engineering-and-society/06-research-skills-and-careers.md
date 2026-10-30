@@ -1,4 +1,6 @@
-# Research Skills and Careers
+---
+title: "Research Skills and Careers"
+---
 
 > **Level 4 · Module 6** · Prerequisites: L0-04, L1-01, L2-02, L4-03 (L4-01 helps for section 4) · Time: 6 to 8 hours, plus the capstone · Code: `code/L4-06-research-skills-and-careers/`
 

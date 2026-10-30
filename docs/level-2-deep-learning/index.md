@@ -1,4 +1,6 @@
-# Level 2: Deep learning
+---
+title: "Level 2: Deep learning"
+---
 
 From backpropagation by hand to a working GPT: training practice, convolutional networks, sequence models, transformers, and embeddings. Everything trains on a CPU in under a minute.
 

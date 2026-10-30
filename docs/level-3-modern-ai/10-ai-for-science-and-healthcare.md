@@ -1,4 +1,6 @@
-# AI for Science and Healthcare
+---
+title: "AI for Science and Healthcare"
+---
 
 > **Level 3 · Module 10** · Prerequisites: L1-01, L1-05, L2-03, L3-09 · Time: 6 to 8 hours · Code: `code/L3-10-ai-for-science-and-healthcare/`
 

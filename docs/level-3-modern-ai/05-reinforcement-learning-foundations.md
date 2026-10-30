@@ -1,4 +1,6 @@
-# Reinforcement Learning Foundations
+---
+title: "Reinforcement Learning Foundations"
+---
 
 > **Level 3 · Module 5** · Prerequisites: L0-04, L0-05, L2-01, L2-02 · Time: 8 to 10 hours · Code: `code/L3-05-reinforcement-learning-foundations/`
 

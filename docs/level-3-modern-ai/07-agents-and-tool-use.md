@@ -1,4 +1,6 @@
-# Agents and Tool Use
+---
+title: "Agents and Tool Use"
+---
 
 > **Level 3 · Module 7** · Prerequisites: L0-04, L1-01, L3-02, L3-06, and Track A of the "AI Systems" course · Time: 7 to 9 hours · Code: `code/L3-07-agents-and-tool-use/`
 

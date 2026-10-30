@@ -1,4 +1,6 @@
-# Neural Networks and Backpropagation
+---
+title: "Neural Networks and Backpropagation"
+---
 
 > **Level 2 · Module 1** · Prerequisites: L0-02, L0-03, L0-05, L1-02 · Time: 6 to 8 hours · Code: `code/L2-01-neural-networks-and-backprop/`
 

@@ -1,4 +1,6 @@
-# Training Deep Networks
+---
+title: "Training Deep Networks"
+---
 
 > **Level 2 · Module 2** · Prerequisites: L0-05, L1-01, L2-01 · Time: 6 to 8 hours · Code: `code/L2-02-training-deep-networks/`
 

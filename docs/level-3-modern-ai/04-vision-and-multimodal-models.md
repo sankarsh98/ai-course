@@ -1,4 +1,6 @@
-# Vision and Multimodal Models
+---
+title: "Vision and Multimodal Models"
+---
 
 > **Level 3 · Module 4** · Prerequisites: L2-03, L2-05, L2-06 · Time: 7 to 9 hours · Code: `code/L3-04-vision-and-multimodal-models/`
 

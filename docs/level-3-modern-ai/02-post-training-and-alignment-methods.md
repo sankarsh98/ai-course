@@ -1,4 +1,6 @@
-# Post-Training and Alignment Methods
+---
+title: "Post-Training and Alignment Methods"
+---
 
 > **Level 3 · Module 2** · Prerequisites: L0-04, L0-05, L2-05, L3-01 (L3-05 helps for section 4) · Time: 10 to 12 hours · Code: `code/L3-02-post-training-and-alignment-methods/`
 

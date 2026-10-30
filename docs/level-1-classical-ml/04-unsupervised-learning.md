@@ -1,4 +1,6 @@
-# Unsupervised Learning
+---
+title: "Unsupervised Learning"
+---
 
 > **Level 1 · Module 4** · Prerequisites: L0-02, L0-04, L1-01 · Time: 5 to 6 hours · Code: `code/L1-04-unsupervised-learning/`
 
