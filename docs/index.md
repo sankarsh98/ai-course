@@ -24,7 +24,7 @@ Also: [learning paths](learning-paths.md) for different goals, five [capstone pr
 ## Setup
 
 ```bash
-git clone <this repository>
+git clone https://github.com/sankarsh98/ai-course.git
 cd ai-course
 uv venv
 uv pip install numpy scipy scikit-learn matplotlib pandas
@@ -51,3 +51,10 @@ Module pages run about 6,000 to 13,700 words because they contain the full code 
 ## A note on time
 
 The module headers carry estimated study times (from 5 to 12 hours each, 214 to 275 hours for everything). These are the authors' estimates, not measurements of real learners, so treat them as rough.
+
+## More from this series
+
+- [Thoughts: the notes garden](https://sankarsh98.github.io/garden/)
+- [How Computers Play Chess](https://sankarsh98.github.io/chess-brains/): build a tiny chess engine
+- [AI Systems](https://sankarsh98.github.io/ai-systems/): agents, MCP and inference efficiency (L3-07 and L4-02 build on it)
+- [All sites](https://sankarsh98.github.io/)

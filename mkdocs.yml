@@ -1,5 +1,7 @@
 site_name: The AI Course
 site_description: A multi-level, hands-on AI course from foundations to frontier topics.
+site_url: https://sankarsh98.github.io/ai-course/
+repo_url: https://github.com/sankarsh98/ai-course
 theme:
   name: material
   palette:
